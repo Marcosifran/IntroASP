@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "IntroASP.Controllers.ApiBeer",
+    "Method": "Get",
+    "RelativePath": "api/ApiBeer",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[IntroASP.Models.ViewModels.BeerBrandViewModel, IntroASP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

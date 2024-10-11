@@ -1,0 +1,33 @@
+﻿body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f6fa;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+.modern-table {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+}
+.modern-table th, .modern-table td {
+     padding: 20px;
+     border-bottom: 1px solid #eeeeee;
+}
+
+.modern-table th {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #34495e;
+}
+
+.modern-table td {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #2c3e50;
+}

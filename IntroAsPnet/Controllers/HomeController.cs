@@ -13,12 +13,21 @@ namespace IntroAsPnet.Controllers
             _logger = logger;
         }
 
+        public IActionResult Registro()
+        {
+            return View();
+        }
+
+        public IActionResult IniciarSesion()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult LigasTorneos()
         {
             return View();
         }

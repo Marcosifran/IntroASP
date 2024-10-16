@@ -3,28 +3,39 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TodoFulbo @ViewData["Title"]</title>
-
+    <title>@ViewData["Title"] TodoFulbo</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" >
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="stylesheet" href="~/css/api-football.css" />
     <link rel="icon" type="image/x-icon" href="~/images/soccer-ball-favicon.ico" />
 </head>
 <body class="d-flex flex-column min-vh-100">
     <header>
         <nav class="navbar navbar-expand-sm navbar-light bg-light">
-            <div class="container">
-                <a class="navbar-brand" href="#">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">
                     <img src="~/images/soccer-ball.png" alt="logo" width="30" height="30" />
                     TodoFulbo
                 </a>
-                <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="collapse navbar-collapse id="navbarNav">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="#torneos">Crear Torneo</a>
+                            <a class="nav-link" asp-controller="Home" asp-action="Equipos">Equipos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/Account/Register">Registarse</a>
+                            <a class="nav-link" asp-controller="Home" asp-action="Jugador">Jugadores</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="LigasTorneos">Ligas y Torneos</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Registro">Registarse</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="IniciarSesion">Iniciar sesión</a>
                         </li>
                     </ul>
                 </div>
@@ -32,16 +43,21 @@
         </nav>
     </header>
 
-    <div class="container flex-grow-1">
-        @RenderBody()
+    <div class="container-fluid flex-grow-1">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
     </div>
 
-    <footer class="bg-light text-center text-lg-start mt-5">
-        <div class="text-center p-3" style="background-color: #f8f9fa;">
-            Hecho por el equipo de TodoFulbo
+    <footer class="border-top footer text-muted">
+        <div class="container text-center">
+            &copy; 2024 - Creado por el equipo de TodoFulbo
         </div>
     </footer>
-
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
     @RenderSection("Scripts", required: false)
 </body>
 </html>

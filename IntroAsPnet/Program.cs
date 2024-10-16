@@ -1,7 +1,25 @@
+using IntroAsPnet.Servicios;
+using System.Net;
+
+ServicePointManager.SecurityProtocol=SecurityProtocolType.Tls12;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient<AllSportsApiService>(client =>
+{
+    client.BaseAddress = new Uri("https://allsportsapi.com");
+});
+
+builder.Services.AddHttpClient<AllSportsApiService>()
+    .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler
+    {
+        ServerCertificateCustomValidationCallback = (message, cert, chain, errors) => true
+    });
+
 
 var app = builder.Build();
 

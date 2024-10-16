@@ -16,4 +16,12 @@
     <None Include="wwwroot\css\styles.css" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NewtonSoft.json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IntroASP\IntroASP.csproj" />
+  </ItemGroup>
+
 </Project>

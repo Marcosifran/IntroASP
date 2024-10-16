@@ -4,7 +4,7 @@
     <!-- Presentación -->
     <section class=" text-black text-center p-5">
         <h1>Bienvenido a TodoFulbo</h1>
-        <p>Donde las estadísticas cobran vida y puedes crear tus propios torneos de fútbol</p>
+        <p>Donde podrás ver las estadístias mundiales y hacer tus propios torneos de fútbol</p>
     </section>
     <!-- Estadísticas -->
     <section id="estadisticas" class="container py-5">
@@ -13,7 +13,7 @@
         <!-- Tablas o gráficos de estadísticas -->
         <div class="row">
             <div class="col-md-4">
-                <a asp-area="" asp-controller="Home" asp-action="Equipos" class="text-decoration-none">
+                <a asp-controller="Home" asp-action="Equipos" class="text-decoration-none">
                     <div class="card bg-light text-dark text-center p-3 shadow-sm">
                         <h3>Equipos</h3>
                         <p>Ranking de equipos, estadísticas de partidos y más.</p>
@@ -21,12 +21,20 @@
                 </a>
             </div>
             <div class="col-md-4" >
-                <h3>Jugadores</h3>
-                <p>Datos sobre jugadores, goles, asistencias, y desempeño en la cancha.</p>
+                <a asp-controller="Home" asp-action="Jugador" class="text-decoration-none">
+                    <div class="card bg-light text-dark text-center p-3 shadow-sm">
+                        <h3>Jugadores</h3>
+                        <p>Datos sobre jugadores, goles, asistencias, y desempeño en la cancha.</p>
+                    </div>
+                </a>
             </div>
             <div class="col-md-4">
-                <h3>Ligas y Torneos</h3>
-                <p>Información detallada sobre las ligas más populares.</p>
+            <a asp-controller="Home" asp-action="LigasTorneos" class="text-decoration-none">
+                <div class="card bg-light text-dark text-center p-3 shadow-sm">
+                    <h3>Ligas y Torneos</h3>
+                    <p>Información detallada sobre las ligas más populares.</p>
+                </div>
+            </a>
             </div>
         </div>
     </section>
@@ -37,7 +45,7 @@
             <h2 class="text-center">Crea y Administra tus Propios Torneos</h2>
             <p class="text-center">Regístrate y comienza a organizar tus torneos personalizados.</p>
             <div class="text-center">
-                <a href="/Account/Register" class="btn btn-success btn-lg">Regístrate Ahora</a>
+                <a asp-controller="Home" asp-action="Registro" class="btn btn-success btn-lg">Regístrate Ahora</a>
             </div>
         </div>
     </section>

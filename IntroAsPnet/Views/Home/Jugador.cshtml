@@ -1,0 +1,32 @@
+﻿@model List<PlayerModel>
+
+<h2>Buscar Jugador</h2>
+
+<form method="post" asp-action="SearchPlayer">
+    <input type="text" name="firstName" placeholder="Ingrese el nombre" required />
+    <input type="text" name="lastName" placeholder="Ingrese el apellido" required />
+    <button type="submit">Buscar</button>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <h3>Resultados de la búsqueda:</h3>
+    <form method="get" asp-action="PlayerDetails">
+        <select name="playerId">
+            @foreach (var player in Model)
+            {
+                <option value="@player.Nombre">@player.Nombre</option>
+            }
+        </select>
+        <button type="submit">Ver Detalles</button>
+    </form>
+}
+else if (Model != null && !Model.Any())
+{
+    <p>No se encontraron jugadores con ese nombre y apellido.</p>
+}
+
+@if (ViewBag.Error != null)
+{
+    <p style="color: red;">@ViewBag.Error</p>
+}

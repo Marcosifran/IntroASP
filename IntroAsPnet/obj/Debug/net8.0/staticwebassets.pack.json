@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\IntroAsPnet.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroAsPnet\\wwwroot\\css\\registro.css",
+      "PackagePath": "staticwebassets\\css\\registro.css"
+    },
+    {
       "Id": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroAsPnet\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroAsPnet\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroAsPnet\\wwwroot\\images\\mezi.jpg",
+      "PackagePath": "staticwebassets\\images\\mezi.jpg"
     },
     {
       "Id": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroAsPnet\\wwwroot\\images\\soccer-ball-favicon.ico",

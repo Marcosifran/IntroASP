@@ -1,5 +1,6 @@
 ﻿@model Desarrollo.Models.Usuario
 <link rel="stylesheet" href="~/css/registro.css">
+<script src="~/js/IniciarSesion.js"></script>
 <div class="form-container">
     <h2>Iniciar Sesión</h2>
     <form asp-controller="Usuarios" asp-action="IniciarSesion" method="post">
@@ -10,26 +11,20 @@
         </div>
         <div class="input-group">
             <label for="contraseña">Contraseña</label>
-            <input type="password" id="contraseña" name="contraseña" required />
-            <input type="checkbox" id="mostrarContraseña" onclick="togglePassword()" >  
+            <div class="password-wrapper">
+                <input type="password" id="contraseña" name="contraseña" required />
+                <span class="toggle-password" onclick="togglePassword()">
+                    <i class="fas fa-eye" id="toggleIcon"></i>
+                </span>
+            </div>            
             @Html.ValidationMessageFor(model=>model.Contraseña,"",new {@class = "text-danger"})
         </div>
         <div class="checkbox-group">
             <input type="checkbox" id="mantener_sesion" name="mantener_sesion" />
             <label for="mantener_sesion">Mantener sesión</label>
-                       
         </div>
         <button type="submit">Iniciar Sesión</button>
     </form>
     <a href="@Url.Action("ContraseñaOlvidada", "Cuenta")">Olvidaste la contraseña?</a>
 </div>
-<script>
-    function togglePassword() {
-        var passwordField = document.getElementById("contraseña");
-        if (passwordField.type === "password") {
-            passwordField.type = "text";
-        } else {
-            passwordField.type = "password";
-        }
-    }
-</script>
+

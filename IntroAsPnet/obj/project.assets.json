@@ -6443,11 +6443,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\IntroAsPnet.csproj",
+      "projectUniqueName": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroAsPnet\\IntroAsPnet.csproj",
       "projectName": "IntroAsPnet",
-      "projectPath": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\IntroAsPnet.csproj",
+      "projectPath": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroAsPnet\\IntroAsPnet.csproj",
       "packagesPath": "C:\\Users\\Marcos_Ifran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroAsPnet\\obj\\",
+      "outputPath": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6469,8 +6469,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroASP\\IntroASP.csproj": {
-              "projectPath": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroASP\\IntroASP.csproj"
+            "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroASP\\IntroASP.csproj": {
+              "projectPath": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroASP\\IntroASP.csproj"
             }
           }
         }

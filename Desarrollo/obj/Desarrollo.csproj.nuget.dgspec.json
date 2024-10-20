@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Desarrollo.csproj": {}
+    "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\Desarrollo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Desarrollo.csproj": {
+    "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\Desarrollo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Desarrollo.csproj",
+        "projectUniqueName": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\Desarrollo.csproj",
         "projectName": "Desarrollo",
-        "projectPath": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Desarrollo.csproj",
+        "projectPath": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\Desarrollo.csproj",
         "packagesPath": "C:\\Users\\Marcos_Ifran\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\obj\\",
         "projectStyle": "PackageReference",
@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[4.0.3, )"
             },
+            "Mailkit": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -63,6 +67,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "NewtonSoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",

@@ -55,3 +55,21 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.passord-wrapper{
+    position: relative;
+}
+
+.password-wrapper input{
+    width: 100%;
+    padding-right:150px;
+}
+
+.toggle-password{
+
+    position:absolute;
+    right:10px;
+    transform: translateY(40%);
+    cursor: pointer;
+    font-size: 16px;
+}

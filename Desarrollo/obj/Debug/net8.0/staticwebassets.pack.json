@@ -25,8 +25,16 @@
       "PackagePath": "staticwebassets\\images\\soccer-ball.png"
     },
     {
+      "Id": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\wwwroot\\js\\IniciarSesion.js",
+      "PackagePath": "staticwebassets\\js\\IniciarSesion.js"
+    },
+    {
       "Id": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\wwwroot\\js\\togglePassword.js",
+      "PackagePath": "staticwebassets\\js\\togglePassword.js"
     },
     {
       "Id": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\wwwroot\\lib\\bootstrap\\LICENSE",

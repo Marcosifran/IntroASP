@@ -14,4 +14,7 @@ public partial class Usuario
     public int? Equipoid { get; set; }
 
     public virtual Equipo? Equipo { get; set; }
+
+    public string? ResetToken {  get; set; }
+    public DateTime? ResetTokenExpiration { get; set; }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HVvyuKFEOF46POmY7pIGH4PAMNQ+4PqdPLA3phCuA9M=",
+  "Hash": "F3bHURiNh/jK4K9EayFlfScZvBkTAZjNca4udtX1oYo=",
   "Source": "Desarrollo",
   "BasePath": "_content/Desarrollo",
   "Mode": "Default",
@@ -150,6 +150,25 @@
       "OriginalItemSpec": "wwwroot\\images\\soccer-ball-favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\wwwroot\\js\\IniciarSesion.js",
+      "SourceId": "Desarrollo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\wwwroot\\",
+      "BasePath": "_content/Desarrollo",
+      "RelativePath": "js/IniciarSesion.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\IniciarSesion.js"
+    },
+    {
       "Identity": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\wwwroot\\js\\site.js",
       "SourceId": "Desarrollo",
       "SourceType": "Discovered",
@@ -167,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\wwwroot\\js\\togglePassword.js",
+      "SourceId": "Desarrollo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\wwwroot\\",
+      "BasePath": "_content/Desarrollo",
+      "RelativePath": "js/togglePassword.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\togglePassword.js"
     },
     {
       "Identity": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\Desarrollo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

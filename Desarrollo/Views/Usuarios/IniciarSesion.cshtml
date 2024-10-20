@@ -1,0 +1,35 @@
+﻿@model Desarrollo.Models.Usuario
+<link rel="stylesheet" href="~/css/registro.css">
+<div class="form-container">
+    <h2>Iniciar Sesión</h2>
+    <form asp-controller="Usuarios" asp-action="IniciarSesion" method="post">
+        <div class="input-group">
+            <label for="email">Correo</label>
+            <input type="email" id="email" name="email" required />
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+        <div class="input-group">
+            <label for="contraseña">Contraseña</label>
+            <input type="password" id="contraseña" name="contraseña" required />
+            <input type="checkbox" id="mostrarContraseña" onclick="togglePassword()" >  
+            @Html.ValidationMessageFor(model=>model.Contraseña,"",new {@class = "text-danger"})
+        </div>
+        <div class="checkbox-group">
+            <input type="checkbox" id="mantener_sesion" name="mantener_sesion" />
+            <label for="mantener_sesion">Mantener sesión</label>
+                       
+        </div>
+        <button type="submit">Iniciar Sesión</button>
+    </form>
+    <a href="@Url.Action("ContraseñaOlvidada", "Cuenta")">Olvidaste la contraseña?</a>
+</div>
+<script>
+    function togglePassword() {
+        var passwordField = document.getElementById("contraseña");
+        if (passwordField.type === "password") {
+            passwordField.type = "text";
+        } else {
+            passwordField.type = "password";
+        }
+    }
+</script>

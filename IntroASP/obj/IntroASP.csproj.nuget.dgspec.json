@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroASP\\IntroASP.csproj": {}
+    "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroASP\\IntroASP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroASP\\IntroASP.csproj": {
+    "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroASP\\IntroASP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroASP\\IntroASP.csproj",
+        "projectUniqueName": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroASP\\IntroASP.csproj",
         "projectName": "IntroASP",
-        "projectPath": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroASP\\IntroASP.csproj",
+        "projectPath": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroASP\\IntroASP.csproj",
         "packagesPath": "C:\\Users\\Marcos_Ifran\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Marcos_Ifran\\Source\\Repos\\IntroASP\\IntroASP\\obj\\",
         "projectStyle": "PackageReference",

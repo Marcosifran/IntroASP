@@ -3,40 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\introaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|solutionrelative:introaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\introaspnet\\servicios\\allsportsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|solutionrelative:introaspnet\\servicios\\allsportsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\introaspnet\\views\\home\\jugador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|solutionrelative:introaspnet\\views\\home\\jugador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\views\\home\\ligastorneos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\views\\home\\ligastorneos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\introaspnet\\models\\modelojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|solutionrelative:introaspnet\\models\\modelojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\views\\usuarios\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\views\\usuarios\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\introaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|solutionrelative:introaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\introaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|solutionrelative:introaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\introaspnet\\controllers\\sportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|solutionrelative:introaspnet\\controllers\\sportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\introaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|solutionrelative:introaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\introaspnet\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B78E41A-ABBD-4B0D-909D-E3BF0149CD00}|IntroAsPnet\\IntroAsPnet.csproj|solutionrelative:introaspnet\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\wwwroot\\css\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\wwwroot\\css\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\desarrollo\\data\\desarrollodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DF2AE5-0D01-4ED4-B971-237A56496327}|Desarrollo\\Desarrollo.csproj|solutionrelative:desarrollo\\data\\desarrollodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86A4E14-1947-4EE1-B767-BAF57D3C1BDE}|IntroASP\\IntroASP.csproj|c:\\users\\marcos_ifran\\source\\repos\\introasp\\introasp\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86A4E14-1947-4EE1-B767-BAF57D3C1BDE}|IntroASP\\IntroASP.csproj|solutionrelative:introasp\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,129 +70,192 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "IntroAsPnet\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "IntroAsPnet\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T23:06:59.559Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Program.cs",
-              "RelativeDocumentMoniker": "IntroAsPnet\\Program.cs",
-              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Program.cs",
-              "RelativeToolTip": "IntroAsPnet\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T00:19:30.623Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "LigasTorneos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Home\\LigasTorneos.cshtml",
+              "RelativeDocumentMoniker": "Desarrollo\\Views\\Home\\LigasTorneos.cshtml",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Home\\LigasTorneos.cshtml",
+              "RelativeToolTip": "Desarrollo\\Views\\Home\\LigasTorneos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T23:37:27.652Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AllSportsApiService.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Servicios\\AllSportsApiService.cs",
-              "RelativeDocumentMoniker": "IntroAsPnet\\Servicios\\AllSportsApiService.cs",
-              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Servicios\\AllSportsApiService.cs",
-              "RelativeToolTip": "IntroAsPnet\\Servicios\\AllSportsApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T00:13:00.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Jugador.cshtml",
-              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Views\\Home\\Jugador.cshtml",
-              "RelativeDocumentMoniker": "IntroAsPnet\\Views\\Home\\Jugador.cshtml",
-              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Views\\Home\\Jugador.cshtml",
-              "RelativeToolTip": "IntroAsPnet\\Views\\Home\\Jugador.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Desarrollo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Desarrollo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T01:12:33.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ModeloJugador.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Models\\ModeloJugador.cs",
-              "RelativeDocumentMoniker": "IntroAsPnet\\Models\\ModeloJugador.cs",
-              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Models\\ModeloJugador.cs",
-              "RelativeToolTip": "IntroAsPnet\\Models\\ModeloJugador.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T00:37:57.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T21:28:25.249Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "IntroAsPnet\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "IntroAsPnet\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Usuarios\\Registro.cshtml",
+              "RelativeDocumentMoniker": "Desarrollo\\Views\\Usuarios\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Usuarios\\Registro.cshtml",
+              "RelativeToolTip": "Desarrollo\\Views\\Usuarios\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T01:14:16.496Z",
+              "WhenOpened": "2024-10-16T19:26:18.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Desarrollo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Desarrollo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T21:24:28.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "IntroAsPnet\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "IntroAsPnet\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Desarrollo\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Desarrollo\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:05:10.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Usuarios\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "Desarrollo\\Views\\Usuarios\\IniciarSesion.cshtml",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Usuarios\\IniciarSesion.cshtml",
+              "RelativeToolTip": "Desarrollo\\Views\\Usuarios\\IniciarSesion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T01:13:08.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T19:26:41.734Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SportsController.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Controllers\\SportsController.cs",
-              "RelativeDocumentMoniker": "IntroAsPnet\\Controllers\\SportsController.cs",
-              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Controllers\\SportsController.cs",
-              "RelativeToolTip": "IntroAsPnet\\Controllers\\SportsController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAxAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Desarrollo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Desarrollo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T00:06:44.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T19:14:58.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Desarrollo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Desarrollo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T23:35:50.128Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "IntroAsPnet\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroAsPnet\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "IntroAsPnet\\Models\\ErrorViewModel.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Program.cs",
+              "RelativeDocumentMoniker": "Desarrollo\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Program.cs",
+              "RelativeToolTip": "Desarrollo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:46:25.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Desarrollo\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Desarrollo\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T16:36:13.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\appsettings.json",
+              "RelativeDocumentMoniker": "Desarrollo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\appsettings.json",
+              "RelativeToolTip": "Desarrollo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T15:11:27.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Desarrollo\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Models\\Usuario.cs",
+              "RelativeToolTip": "Desarrollo\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T00:58:26.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T20:59:12.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "registro.css",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\wwwroot\\css\\registro.css",
+              "RelativeDocumentMoniker": "Desarrollo\\wwwroot\\css\\registro.css",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\wwwroot\\css\\registro.css",
+              "RelativeToolTip": "Desarrollo\\wwwroot\\css\\registro.css",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-16T21:01:36.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DesarrolloDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Data\\DesarrolloDbContext.cs",
+              "RelativeDocumentMoniker": "Desarrollo\\Data\\DesarrolloDbContext.cs",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\Desarrollo\\Data\\DesarrolloDbContext.cs",
+              "RelativeToolTip": "Desarrollo\\Data\\DesarrolloDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:47:07.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroASP\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "IntroASP\\Controllers\\BeerController.cs",
+              "ToolTip": "C:\\Users\\Marcos_Ifran\\source\\repos\\IntroASP\\IntroASP\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "IntroASP\\Controllers\\BeerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:14:47.894Z"
             }
           ]
         }

@@ -1,0 +1,23 @@
+﻿@model Desarrollo.Models.Usuario
+<link rel="stylesheet" href="~/css/registro.css">
+<div class="form-container">
+    <h2>Registrarse</h2>
+    <form asp-controller="Usuarios" asp-action="Registro" method="post">
+        <div class="input-group">
+            <label for="Email">Correo</label>
+            <input type="email" id="Email" name="Email" required />
+            @Html.ValidationMessageFor(model=> model.Email, "", new { @class = "text-danger" })
+        </div>
+        <div class="input-group">
+            <label for="Contraseña">Contraseña</label>
+            <input type="password" id="Contraseña" name="Contraseña" required />
+        </div>
+        <div class="checkbox-group">
+            <input type="checkbox" id="Mantener_sesion" name="Mantener_sesion" />
+            <label for="Mantener_sesion">Mantener sesión</label>
+            
+            
+        </div>
+        <button type="submit" color="">Registrarme</button>
+    </form>
+</div>
